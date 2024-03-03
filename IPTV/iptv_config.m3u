@@ -1,30 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视直播",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视直播",CCTV2
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://39.134.67.108/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视直播",CCTV3
-https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视直播",CCTV4
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://39.134.67.108/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视直播",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png" group-title="央视直播",CCTV5+
+http://39.134.67.108/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视直播",CCTV6
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw3940641123_459833286/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8?icpid=3&RTS=1668594440&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视直播",CCTV7
-https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视直播",CCTV8
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_1136880123/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://39.134.67.108/PLTV/88888888/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视直播",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视直播",CCTV10
-http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="央视直播",CCTV11
+http://39.134.67.108/PLTV/88888888/224/3221225517/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视直播",CCTV12
-http://222.223.119.21:8888/newlive/live/hls/14/live.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视直播",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225812/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视直播",CCTV14
-http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="央视直播",CCTV15
+http://39.134.67.108/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV16
+http://39.134.67.108/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV17
+http://39.134.67.108/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="电影",黑莓电影
+http://39.134.65.173/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 group-title="电影",美亚电影台
 http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 #EXTINF:-1 group-title="电影",星卫电影
