@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视直播",CCTV1
+http://39.134.67.108/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视直播",CCTV2
+http://39.134.67.108/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视直播",CCTV3
+http://39.134.67.108/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视直播",CCTV4
+http://39.134.67.108/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="央视直播",CCTV5
+http://39.134.67.108/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png" group-title="央视直播",CCTV5+
+http://39.134.67.108/PLTV/88888888/224/3221225507/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="央视直播",CCTV6
+http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="央视直播",CCTV7
+http://39.134.67.108/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视直播",CCTV8
+http://39.134.67.108/PLTV/88888888/224/3221225795/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视直播",CCTV9
+http://39.134.67.108/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视直播",CCTV10
+http://39.134.67.108/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="央视直播",CCTV11
+http://39.134.67.108/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视直播",CCTV12
+http://39.134.67.108/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视直播",CCTV13
+http://39.134.67.108/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视直播",CCTV14
+http://39.134.67.108/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="央视直播",CCTV15
+http://39.134.67.108/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV16
+http://39.134.67.108/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV17
+http://39.134.67.108/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="电影",黑莓电影
+http://39.134.65.173/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="电影",美亚电影台
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 group-title="电影",星卫电影
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 group-title="电影",龙祥电影
+http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 group-title="电影",龙华电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 group-title="电影",东森电影
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+#EXTINF:-1 group-title="电影",东森洋片
+http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+#EXTINF:-1 group-title="电影",CHC家庭影院
+http://222.134.240.136:9901/tsfile/live/1031_1.m3u8?url=tvzb.com
+#EXTINF:-1 group-title="电影",CINEMAX
+http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1 group-title="电影",HBO
+http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+#EXTINF:-1 group-title="电影",HBO家庭
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 group-title="电视剧",射雕英雄传
+https://live.metshop.top/yy/1354210357
+#EXTINF:-1 group-title="电视剧",神雕侠侣
+https://live.metshop.top/yy/1351762426
+#EXTINF:-1 group-title="电视剧",倚天屠龙记
+https://live.metshop.top/yy/1449856066
+#EXTINF:-1 group-title="电视剧",天龙八部
+https://live.metshop.top/yy/1351814644
+#EXTINF:-1 group-title="电视剧",笑傲江湖
+https://live.metshop.top/yy/1354936128
+#EXTINF:-1 group-title="电视剧",鹿鼎记
+https://live.metshop.top/yy/28265277
+#EXTINF:-1 group-title="电视剧",寻秦记
+https://live.metshop.top/yy/1382749900
+#EXTINF:-1 group-title="电视剧",封神榜
+https://live.metshop.top/yy/1353426319
+#EXTINF:-1 group-title="电视剧",新白娘子传奇
+https://live.metshop.top/yy/1354490667
+#EXTINF:-1 group-title="电视剧",新白娘子传奇-修复版
+https://live.metshop.top/yy/1354930969
+#EXTINF:-1 group-title="电视剧",钟馗传说
+https://live.metshop.top/yy/1382736839
+#EXTINF:-1 group-title="电视剧",红楼梦
+https://live.metshop.top/yy/1382745084
+#EXTINF:-1 group-title="电视剧",三国演义
+https://live.metshop.top/yy/1354936241
+#EXTINF:-1 group-title="电视剧",西游记后传
+https://live.metshop.top/yy/1353392400
+#EXTINF:-1 group-title="电视剧",少年包青天
+https://live.metshop.top/yy/38498680
+#EXTINF:-1 group-title="电视剧",宰相刘罗锅
+https://live.metshop.top/yy/1353892468
+#EXTINF:-1 group-title="电视剧",雍正王朝
+https://live.metshop.top/yy/23206872
+#EXTINF:-1 group-title="电视剧",神探狄仁杰
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
+#EXTINF:-1 group-title="电视剧",庆余年
+http://diyp.112114.xyz/douyu/7489563
+#EXTINF:-1 group-title="电视剧",陈情令
+https://live.metshop.top/yy/1382745121
+#EXTINF:-1 group-title="电视剧",知否知否应是绿肥红瘦
+https://live.metshop.top/yy/21881901
+#EXTINF:-1 group-title="电视剧",仙剑奇侠传
+https://live.metshop.top/yy/1382749903
+#EXTINF:-1 group-title="电视剧",金装四大才子
+https://live.metshop.top/yy/1354926600
+#EXTINF:-1 group-title="电视剧",公主嫁到
+https://live.metshop.top/yy/1382736915
+#EXTINF:-1 group-title="电视剧",耀舞长安
+https://live.metshop.top/yy/1382741640
+#EXTINF:-1 group-title="电视剧",上海滩
+https://live.metshop.top/yy/1382745184
+#EXTINF:-1 group-title="电视剧",大时代
+https://live.metshop.top/yy/1354930891
+#EXTINF:-1 group-title="电视剧",法证先锋
+https://live.metshop.top/yy/1354930965
+#EXTINF:-1 group-title="电视剧",陀枪师姐
+https://live.metshop.top/yy/1382688521
+#EXTINF:-1 group-title="电视剧",飞虎之潜行极战
+https://live.metshop.top/yy/1354932420
+#EXTINF:-1 group-title="电视剧",放羊的星星
+https://live.metshop.top/yy/1355260662
+#EXTINF:-1 group-title="电视剧",天道
+https://live.metshop.top/yy/1382735574
+#EXTINF:-1 group-title="电视剧",安家
+https://live.metshop.top/yy/12086226
+#EXTINF:-1 group-title="电视剧",欢乐颂
+https://live.metshop.top/yy/1382735624
+#EXTINF:-1 group-title="电视剧",平凡岁月
+https://live.metshop.top/yy/1382745117
+#EXTINF:-1 group-title="电视剧",苦乐村官
+https://live.metshop.top/yy/1382736864
+#EXTINF:-1 group-title="电视剧",金星脱口秀
+https://live.metshop.top/yy/1354932407
+#EXTINF:-1 group-title="音乐",杨紫琼-爱似流星
+https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
+#EXTINF:-1 group-title="音乐",李丽芬-得意的笑
+http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
+#EXTINF:-1 group-title="音乐",李丽芬-爱江山更爱美人
+http://em.21dtv.com/songs/60007640.mkv
+#EXTINF:-1 group-title="音乐",钟镇涛-让一切随风
+http://em.21dtv.com/songs/60036211.mkv
+#EXTINF:-1 group-title="音乐",黄安-新鸳鸯蝴蝶梦
+http://em.21dtv.com/songs/60050985.mkv
+#EXTINF:-1 group-title="音乐",BMG全体歌手-123木头人
+http://em.21dtv.com/songs/60052907.mkv
+#EXTINF:-1 group-title="音乐",石雪峰-如果一切可以重来
+https://vd2.bdstatic.com/mda-majhhns1q3ggkdi6/v1-cae/sc/mda-majhhns1q3ggkdi6.mp4
+#EXTINF:-1 group-title="音乐",伍佰-一生最爱的人
+http://em.21dtv.com/songs/60053640.mkv
+#EXTINF:-1 group-title="音乐",王恰恰-三月里的小雨
+https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4
+#EXTINF:-1 group-title="音乐",孟庭苇-真的还是假的
+http://em.21dtv.com/songs/60058093.mkv
+#EXTINF:-1 group-title="音乐",TWINS-星星月亮太阳
+http://em.21dtv.com/songs/60051124.mkv
+#EXTINF:-1 group-title="音乐",黎姿-因你真正活过
+http://em.21dtv.com/songs/60054205.mkv
+#EXTINF:-1 group-title="音乐",郭可盈-有你已经足够
+http://em.21dtv.com/songs/60055240.mkv
+#EXTINF:-1 group-title="音乐",吴泓君-怨苍天变了心
+http://em.21dtv.com/songs/60056176.mkv
+#EXTINF:-1 group-title="音乐",苏红-月亮走我也走
+http://em.21dtv.com/songs/60056452.mkv
+#EXTINF:-1 group-title="音乐",许佳慧-预谋
+http://em.21dtv.com/songs/60094687.mkv
+#EXTINF:-1 group-title="音乐",许冠杰-印象2002(演唱会)
+http://em.21dtv.com/songs/60054400.mkv
+#EXTINF:-1 group-title="音乐",孙耀威-爱的故事《上集》
+http://em.21dtv.com/songs/60007231.mkv
+#EXTINF:-1 group-title="音乐",佚名-月朦胧鸟朦胧
+http://em.21dtv.com/songs/60056468.mkv
+#EXTINF:-1 group-title="音乐",柳云龙-一生别无所求
+http://em.21dtv.com/songs/60086122.mkv
+#EXTINF:-1 group-title="音乐",王力宏-一首简单的歌
+http://em.21dtv.com/songs/60053684.mkv
+#EXTINF:-1 group-title="音乐",萨顶顶-自由行走的花
+http://em.21dtv.com/songs/60070271.mkv
+#EXTINF:-1 group-title="音乐",彭筝-太想念
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwpai5wUo8ODKhQE.mp4
+#EXTINF:-1 group-title="音乐",魏新雨-恋人心
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg197E4gUozOqwrwU.mp4
+#EXTINF:-1 group-title="音乐",刘珂矣-半壶纱
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1K6M5gUo3ruZrwc.mp4
+#EXTINF:-1 group-title="音乐",钟小冰-公虾米
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnMOv5wUouMCstQQ.mp4
+#EXTINF:-1 group-title="音乐",龙梅子-情路弯弯
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1tXE4gUonLmU1wI.mp4
+#EXTINF:-1 group-title="音乐",冷漠&杨小曼-爱成叹息
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7c3E4gUo5d70hgI.mp4
+#EXTINF:-1 group-title="音乐",冷漠-分手
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwsfE4gUokp27lAQ.mp4
+#EXTINF:-1 group-title="音乐",张蔷-爱你在心口难开
+http://em.21dtv.com/songs/60008040.mkv
+#EXTINF:-1 group-title="音乐",云朵-我的楼兰
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg88K74gUohZWCnwQ.mp4
+#EXTINF:-1 group-title="音乐",古皓-爱情没有那么美
+http://em.21dtv.com/songs/60008311.mkv
+#EXTINF:-1 group-title="音乐",草蜢-半点心(国)
+http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+#EXTINF:-1 group-title="音乐",草蜢-难得有情人
+http://em.21dtv.com/songs/60076846.mkv
+#EXTINF:-1 group-title="音乐",大话西游-一生所爱
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
+#EXTINF:-1 group-title="音乐",汪小敏-倩女幽魂
+http://vod.cctv.cn/cms/2018-10-29/CCTV15_2m_1f111d935a6c4c72bb045e26c4811f53-18334_video_1-001.mp4
+#EXTINF:-1 group-title="音乐",含笑-飞天
+https://vd4.bdstatic.com/mda-mk8ixtr3eqxbz2v2/sc/cae_h264/1636464928592517726/mda-mk8ixtr3eqxbz2v2.mp4
+#EXTINF:-1 group-title="音乐",高胜美-千年等一回
+http://vod.cctv.cn/cms/2019-04-22/CCTV15_2m_f7f7c988016a49c28034a4e6e8728116-25557_video_1-001.mp4
+#EXTINF:-1 group-title="音乐",邰正宵-999朵玫瑰
+http://vod.cctv.cn/cms/2018-11-15/CCTV15_2m_cd005a3728b44a8ba29fd528b967415a-19259_video_1-001.mp4
+#EXTINF:-1 group-title="音乐",邰正宵-千纸鹤
+http://vod.cctv.cn/cms/2018-09-25/CCTV15_2m_20180925104217992-17354_video_1-001.mp4
+#EXTINF:-1 group-title="音乐",易秒英-龙船调
+http://vod.cctv.cn/cms/2019-05-28/CCTV15_2m_a5b9668b0b9446cba7d17cc9c504c731-1559022865350_627-001.mp4
+#EXTINF:-1 group-title="音乐",AOA-短裤
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+#EXTINF:-1 group-title="音乐",BlackPink-Loser(失败者)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+#EXTINF:-1 group-title="音乐",BlackPink-彩排
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+#EXTINF:-1 group-title="音乐",蜡笔团-FM
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+#EXTINF:-1 group-title="音乐",蜡笔团-星期六晚上
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+#EXTINF:-1 group-title="音乐",CLC-Devil(魔鬼)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+#EXTINF:-1 group-title="音乐",追梦者-Breaking Out(爆发)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+#EXTINF:-1 group-title="音乐",追梦者-德扎普
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+#EXTINF:-1 group-title="音乐",女孩节-Something
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+#EXTINF:-1 group-title="音乐",少女时代-Gee(哇)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+#EXTINF:-1 group-title="音乐",少女时代-狮子心
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+#EXTINF:-1 group-title="音乐",少女时代-Oh
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+#EXTINF:-1 group-title="音乐",(G)I-DLE-LATATA
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+#EXTINF:-1 group-title="音乐",(G)I-DLE-Uh-oh
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+#EXTINF:-1 group-title="音乐",张多慧-我们不能在一起说话
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+#EXTINF:-1 group-title="音乐",蜂蜜爆米花-迪塞奥斯塔
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+#EXTINF:-1 group-title="音乐",J.Fla-Senorita(小姐)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+#EXTINF:-1 group-title="音乐",拉布姆-糖
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+#EXTINF:-1 group-title="音乐",MAMAMOO-Gogobebe
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+#EXTINF:-1 group-title="音乐",Secret-YooHoo
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+#EXTINF:-1 group-title="音乐",Sistar-我一个人
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+#EXTINF:-1 group-title="音乐",T-ara-无糖的
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+#EXTINF:-1 group-title="音乐",ATEEZ-Aurora(曙光)
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+#EXTINF:-1 group-title="音乐",2NE1-不能没有人
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+#EXTINF:-1 group-title="音乐",2NE1-打开
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
