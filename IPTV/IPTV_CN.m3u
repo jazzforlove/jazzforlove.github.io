@@ -33,7 +33,7 @@ http://39.134.67.108/PLTV/88888888/224/3221225674/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV16
 http://39.134.67.108/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视直播",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="央视直播",CCTV17
 http://39.134.67.108/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
