@@ -60,11 +60,13 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影频道",黑莓电影
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="电影频道",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影频道",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-name="newtv动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="电影频道",动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="电视剧",射雕英雄传
 https://live.metshop.top/yy/1354210357
 #EXTINF:-1 group-title="电视剧",神雕侠侣
