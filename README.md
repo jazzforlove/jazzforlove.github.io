@@ -6,5 +6,5 @@
 - 2.https://jazzforlove.github.io/IPTV/IPTV_CN.m3u
 - 3.https://jazzforlove.github.io/IPTV/Movie.m3u
 
-# 添加QQ群相互交流
+## 添加QQ群相互交流
 ![](https://jazzforlove.github.io/imgs/794BF61EFA11C9C88B474F8F792B8FAE.png)
