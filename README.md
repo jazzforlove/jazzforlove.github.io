@@ -17,7 +17,7 @@
 
 ## m3u格式转换链接地址：
   
-  1.https://guihet.com/tvlistconvert.html#zbyjg
+-  1.https://guihet.com/tvlistconvert.html#zbyjg
 
 ## cms免费资源
 - 1.U酷资源
