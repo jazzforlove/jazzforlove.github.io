@@ -17,14 +17,16 @@
 
 ## m3u格式转换链接地址：
   
--  1.https://guihet.com/tvlistconvert.html#zbyjg
+-  https://guihet.com/tvlistconvert.html#zbyjg
 
 ## cms免费资源
 - 1.U酷资源
-  https://api.ukuapi.com/api.php/provide/vod/
+  
+  https://api.ukuapi.com/api.php/provide/vod/?ac=list
+  
 - 2.无尽资源
-  https://api.wujinapi.com/api.php/provide/vod/?ac=list
 
+  https://api.wujinapi.com/api.php/provide/vod/?ac=list
 
 ## 添加QQ群相互交流
 ![](https://jazzforlove.github.io/imgs/794BF61EFA11C9C88B474F8F792B8FAE.png)
