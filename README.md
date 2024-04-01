@@ -17,13 +17,13 @@
 
 ## m3u格式转换链接地址：
   
-  https://guihet.com/tvlistconvert.html#zbyjg
+  1.https://guihet.com/tvlistconvert.html#zbyjg
 
 ## cms免费资源
 - 1.U酷资源
   https://api.ukuapi.com/api.php/provide/vod/
 - 2.无尽资源
-https://api.wujinapi.com/api.php/provide/vod/?ac=list
+  https://api.wujinapi.com/api.php/provide/vod/?ac=list
 
 
 ## 添加QQ群相互交流
