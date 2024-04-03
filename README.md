@@ -27,12 +27,12 @@
 - 2.无尽资源
 
   https://api.wujinapi.com/api.php/provide/vod/?ac=list
-## 演示
-[预览](https://jazzforlove.github.io/video/video.MOV)
-
+## 效果
 <p align="center">
-<img src="https://jazzforlove.github.io/imgs/show.gif" width="75%">
+<img src="https://github.com/jazzforlove/jazzforlove.github.io/blob/main/imgs/show.gif" width="50%,height="50%">
 </p>
 
 ## 添加QQ群相互交流
-![](https://jazzforlove.github.io/imgs/794BF61EFA11C9C88B474F8F792B8FAE.png)
+<p align="center">
+<img src="https://jazzforlove.github.io/imgs/794BF61EFA11C9C88B474F8F792B8FAE.png" width="50%",height="50%">
+</p>
