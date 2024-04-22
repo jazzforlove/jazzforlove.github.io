@@ -27,6 +27,10 @@
 - 2.无尽资源
 
   https://api.wujinapi.com/api.php/provide/vod/?ac=list
+- 3.集合
+  
+  https://raw.githubusercontent.com/cms-player/vod-source/main/source.json
+  
 ## 效果
 <p align="center">
 <img src="https://github.com/jazzforlove/jazzforlove.github.io/blob/main/imgs/show.gif" width="50%,height="50%">
