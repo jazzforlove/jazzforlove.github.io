@@ -29,7 +29,11 @@
   https://api.wujinapi.com/api.php/provide/vod/?ac=list
 - 3.集合
   
-  https://raw.githubusercontent.com/cms-player/vod-source/main/source.json
+  https://jazzforlove.github.io/CMS/vod_source.json
+
+  https://jazzforlove.github.io/CMS/cms_vod.txt
+
+  https://jazzforlove.github.io/CMS/cms_source.txt
   
 ## 效果
 <p align="center">
