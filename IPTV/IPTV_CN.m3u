@@ -117,6 +117,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV频道",欢乐剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="电影频道",斗鱼电影1
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1 group-title="电影频道",斗鱼电影2
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="电影频道",黑莓动画
@@ -627,4 +631,46 @@ https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
 #EXTINF:-1 group-title="相声小品",孔云龙扒马褂
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
+#EXTINF:-1 group-title="日韩频道",K+ 韩国
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 group-title="日韩频道",Kayo Pops 日本流行音乐
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="日韩频道",KBS 韩国
+https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8
+#EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
+https://ctrl.laotv.la/live/KBS/index.m3u8
+#EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 group-title="日韩频道",KMTV3 News Now
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="日韩频道",Kordia TV 音乐
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 group-title="日韩频道",Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 group-title="日韩频道",Love Nature
+http://143.244.60.30/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title="日韩频道",Love ThePlanet
+https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
+#EXTINF:-1 group-title="日韩频道",M2o 音乐
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
+#EXTINF:-1 group-title="日韩频道",Masterchef UK
+https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
+#EXTINF:-1 group-title="日韩频道",MBC 韩国
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/chunklist_w1081597033.m3u8
+#EXTINF:-1 group-title="日韩频道",MBC Action
+http://213.254.12.7/mbcaction/index.m3u8
+#EXTINF:-1 group-title="日韩频道",MBC MAX
+http://213.254.12.7/mbcmax/index.m3u8
+#EXTINF:-1 group-title="日韩频道",mix fm 音乐
+http://strm.mixlive.eu/mixfm/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="日韩频道",MOTO AMERICA TV
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+#EXTINF:-1 group-title="日韩频道",Movie Plus 日本
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="日韩频道",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="日韩频道",MOVIE SPHERE
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
