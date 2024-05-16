@@ -631,14 +631,10 @@ https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
 #EXTINF:-1 group-title="相声小品",孔云龙扒马褂
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
-#EXTINF:-1 group-title="日韩频道",K+ 韩国
-http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="日韩频道",Kayo Pops 日本流行音乐
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 group-title="日韩频道",KBS 韩国
 https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8
-#EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
-https://ctrl.laotv.la/live/KBS/index.m3u8
 #EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="日韩频道",KBS WORLD 韩国
