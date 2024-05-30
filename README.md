@@ -20,14 +20,8 @@
 -  https://guihet.com/tvlistconvert.html#zbyjg
 
 ## cms免费资源
-- 1.U酷资源
-  
-  https://api.ukuapi.com/api.php/provide/vod/?ac=list
-  
-- 2.无尽资源
-
-  https://api.wujinapi.com/api.php/provide/vod/?ac=list
-- 3.集合
+- 1.集合
+  https://jazzforlove.github.io/CMS/video_sources_default.json (推荐)
   
   https://jazzforlove.github.io/CMS/vod_source.json
 
