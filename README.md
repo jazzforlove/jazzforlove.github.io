@@ -21,14 +21,17 @@
 
 ## cms免费资源
 - 1.集合
-  
-  https://jazzforlove.github.io/CMS/video_sources_default.json (推荐)
-  
-  https://jazzforlove.github.io/CMS/vod_source.json
+  * https://jazzforlove.github.io/CMS/vplayer_source.json (推荐)
 
-  https://jazzforlove.github.io/CMS/cms_vod.txt
+  * https://jazzforlove.github.io/CMS/vplayer_source1.json (推荐)
+  
+  * https://jazzforlove.github.io/CMS/video_sources_default.json
+  
+  * https://jazzforlove.github.io/CMS/vod_source.json
 
-  https://jazzforlove.github.io/CMS/cms_source.txt
+  * https://jazzforlove.github.io/CMS/cms_vod.txt
+
+  * https://jazzforlove.github.io/CMS/cms_source.txt
   
 ## 效果
 <p align="center">
