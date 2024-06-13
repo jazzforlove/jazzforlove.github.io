@@ -8,12 +8,17 @@
 - 直播源m3u8转m3u格式转换地址
 
 - 链接地址：
+  * 0.广播频道
+  https://jazzforlove.github.io/IPTV/radio.m3u
   
-  1.https://jazzforlove.github.io/IPTV/CN-IPTV.m3u
+  * 1.国内网络电视、电视剧、电影、音乐、小品等资源
+  https://jazzforlove.github.io/IPTV/IPTV_CN.m3u
   
-  2.https://jazzforlove.github.io/IPTV/IPTV_CN.m3u
+  * 2.国内网络电视
+  https://jazzforlove.github.io/IPTV/CN-IPTV.m3u
 
-  3.https://jazzforlove.github.io/IPTV/Movie.m3u
+  * 3.国内最新电影
+  https://jazzforlove.github.io/IPTV/Movie.m3u
 
 ## m3u格式转换链接地址：
   
