@@ -28,7 +28,7 @@
   
 -  https://guihet.com/tvlistconvert.html#zbyjg
 
-## cms免费资源
+## cms免费资源 搭配iOS（VPlayer - 视频播放器）app使用，体验会更好
 - 1.集合
   * https://jazzforlove.github.io/CMS/vplayer_source.json (推荐)
 
@@ -41,6 +41,13 @@
   * https://jazzforlove.github.io/CMS/cms_vod.txt
 
   * https://jazzforlove.github.io/CMS/cms_source.txt
+
+## 频道搜索
+  * http://tonkiang.us/
+## 热门频道
+  * http://zqjy.info/tv/
+## 在线订阅
+  * https://m3u.ibert.me/
   
 ## 效果
 <p align="center">
