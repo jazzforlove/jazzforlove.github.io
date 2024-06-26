@@ -1947,5 +1947,121 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b37b06579bbe462999
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c86fd9091a74094b69af0bacb40cd04/1200.m3u8
 #EXTINF:-1 group-title="少儿频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-
-
+#EXTINF:-1 group-title="广播电台" radio="true",CRI环球资讯广播
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI世界华声广播
+https://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI海峡飞虹
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI-HitFM
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI-EasyFM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI-NEWSPlus-AM846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CRI-NEWSPlus-AM1008
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR经典音乐
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR中国乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR哈语广播
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR藏语广播
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR维语广播
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CNR长江水上安全信息台
+http://ls.qingting.fm/live/2694923.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CCTV5 音频
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CCTV-5+ 音频
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CCTV13 音频
+http://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",CCTV-16 音频
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京新闻广播
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京城市广播
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京音乐广播
+https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京交通广播
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京文艺广播
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",京津冀之声
+https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京好音乐
+http://live.xmcdn.com/live/964/64.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",北京经典调频
+http://live.funhillrm.com/4/sd/live.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",萤火虫网络电台
+https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",亚洲音乐台
+http://lhttp.qingting.fm/live/5022405/64k.mp3
+#EXTINF:-1 group-title="广播电台" radio="true",经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",格莱美音乐
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",80后音乐
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",动感音乐
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",心灵音乐
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",经典流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",民谣蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",潮流音乐
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+#EXTINF:-1 group-title="广播电台" radio="true",HiFi 电台
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
