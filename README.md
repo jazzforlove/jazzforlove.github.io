@@ -25,13 +25,13 @@
   https://jazzforlove.github.io/IPTV/Movie.m3u
 
 ## 二、IPTV热门频道
-  ### m3u格式转换链接地址：
+  - m3u格式转换链接地址：
   * https://guihet.com/tvlistconvert.html#zbyjg
-  ### 频道搜索
+  - 频道搜索
   * http://tonkiang.us/
-  ### 热门频道
+  - 热门频道
   * http://zqjy.info/tv/
-  ### 在线订阅
+  - 在线订阅
   * https://m3u.ibert.me/
 
 ## 三、cms免费资源 搭配iOS（VPlayer - 视频播放器）app使用，体验会更好
