@@ -3,6 +3,8 @@
 - https://testflight.apple.com/join/zAFJpGzc
 ## 云盘资源合集115
 - https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4?tab=000001
+## CMS资源集合
+- https://github.com/fangkuia/XPTV
 ## 一、m3u直播源
 - CN-IPTV.m3u国内网络电视；
 - IPTV_CN.m3u国内网络电视、电视剧、电影、音乐、小品等资源；
