@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1 group-title="随机图片" wallPaper="true",必应-1
+https://bing.img.run/rand.php
+#EXTINF:-1 group-title="随机图片" wallPaper="true",必应-2
+https://api.timelessq.com/bing/random
+#EXTINF:-1 group-title="随机图片" wallPaper="true",必应-3
+https://imgapi.cn/bing.php?rand=true
+#EXTINF:-1 group-title="随机图片" wallPaper="true",搏天
+https://api.btstu.cn/sjbz/api.php
+#EXTINF:-1 group-title="随机图片" wallPaper="true",动漫
+https://api.yimian.xyz/img?type=moe&size=1920x1080
+#EXTINF:-1 group-title="随机图片" wallPaper="true",风景
+https://api.yimian.xyz/img?type=wallpaper
+#EXTINF:-1 group-title="随机图片" wallPaper="true",韩小韩-必应
+https://api.vvhan.com/api/bing?rand=sj
+#EXTINF:-1 group-title="随机图片" wallPaper="true",韩小韩-动漫
+https://api.vvhan.com/api/wallpaper/acg
+#EXTINF:-1 group-title="随机图片" wallPaper="true",韩小韩-风景
+https://api.vvhan.com/api/wallpaper/views
+#EXTINF:-1 group-title="随机图片" wallPaper="true",韩小韩-cos1
+https://api.vvhan.com/api/wallpaper/pcGirl
+#EXTINF:-1 group-title="随机图片" wallPaper="true",韩小韩-cos2
+https://api.vvhan.com/api/wallpaper/mobileGirl
+#EXTINF:-1 group-title="随机图片" wallPaper="true",夏沫1
+https://cdn.seovx.com/?mom=302
+#EXTINF:-1 group-title="随机图片" wallPaper="true",夏沫2
+https://cdn.seovx.com/d/?mom=302
+#EXTINF:-1 group-title="随机图片" wallPaper="true",夏沫3
+https://cdn.seovx.com/ha/?mom=302
+#EXTINF:-1 group-title="随机图片" wallPaper="true",现代
+https://unsplash.it/1600/900?random
+#EXTINF:-1 group-title="随机图片" wallPaper="true",樱花
+https://www.dmoe.cc/random.php
+#EXTINF:-1 group-title="随机图片" wallPaper="true",COSPLAY-1
+https://imgapi.cn/cos.php
+#EXTINF:-1 group-title="随机图片" wallPaper="true",COSPLAY-2
+https://imgapi.cn/cos2.php
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-动漫-横
+https://imgapi.cn/api.php?fl=dongman&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-动漫-竖
+https://imgapi.cn/api.php?zd=mobile&fl=dongman&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-风景-横
+https://imgapi.cn/api.php?fl=fengjing&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-风景-竖
+https://imgapi.cn/api.php?zd=mobile&fl=fengjing&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-妹子-横
+https://imgapi.cn/api.php?fl=meizi&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-妹子-竖
+https://imgapi.cn/api.php?zd=mobile&fl=meizi&gs=images
+#EXTINF:-1 group-title="随机图片" wallPaper="true",IMGAPI-随机
+https://imgapi.cn/api.php
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", ♻ 飙升榜
+https://api.vvhan.com/api/wyMusic/飙升榜
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/ZyUjc7K_GDpD8MO1-GQkmA==/109951166952706664.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", ♻ 热歌榜
+https://api.vvhan.com/api/wyMusic/热歌榜
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", ♻ 新歌榜
+https://api.vvhan.com/api/wyMusic/新歌榜
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/iFZ_nw2V86IFk90dc50kdQ==/109951166961388699.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", ♻ 原创榜
+https://api.vvhan.com/api/wyMusic/原创榜
+#EXTINF:-1 tvg-logo="https://pic.616pic.com/ys_bnew_img/00/31/98/TwzYqLPVU2.jpg" group-title="随机音乐" radio="true", ♻ DJ
+http://api.yujn.cn/api/dj.php
+#EXTINF:-1 tvg-logo="http://p3.music.126.net/tBTNafgjNnTL1KlZMt7lVA==/18885211718935735.jpg" group-title="随机音乐" radio="true", ♻ 网易云
+http://api.yujn.cn/api/sjwyy.php?type=mp3
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/pcYHpMkdC69VVvWiynNklA==/109951166952713766.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 飙升榜
+https://api.uomg.com/api/rand.music?sort=飙升榜&format=json
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/ZyUjc7K_GDpD8MO1-GQkmA==/109951166952706664.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 热歌榜
+https://api.uomg.com/api/rand.music?sort=热歌榜&format=json
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/wVmyNS6b_0Nn-y6AX8UbpQ==/109951166952686384.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 新歌榜
+https://api.uomg.com/api/rand.music?sort=新歌榜&format=json
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/lH6L0YhKTofSmnrEAtN9CA==/109951168204710928.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 电音榜
+https://api.uomg.com/api/rand.music?sort=电音榜&format=json
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/8sRm2fQNh_KZeWmJ1sRhQQ==/109951165611408950.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 抖音榜
+https://api.uomg.com/api/rand.music?sort=抖音榜&format=json
+#EXTINF:-1 tvg-logo="https://p1.music.126.net/w_01BfDU012ojxnzLO6tYw==/109951167977358686.jpg?imageView=1&thumbnail=378x0" group-title="随机音乐" radio="true", 🏞 中文DJ榜
+http://api.yujn.cn/api/sjdj.php
+#EXTINF:-1 group-title="随机视频" ,1
+https://api.lolimi.cn/API/xjj/xjj.php
+#EXTINF:-1 group-title="随机视频" ,2
+https://jiejie.uk/xjj/tiktok/video2.php
+#EXTINF:-1 group-title="随机视频" ,3
+https://xiao.nanna.ren/video.php
+#EXTINF:-1 group-title="随机视频" ,4
+https://lab.oleou.com/zt/ks/video.php
+#EXTINF:-1 group-title="随机视频" ,5
+https://jx.iqfk.top/api/sjsp.php
+#EXTINF:-1 group-title="随机视频" ,6
+https://api.7645.cn/video/index.php
+#EXTINF:-1 group-title="随机视频" ,7
+https://www.zhiyunge.cn/ks/ks.php
+#EXTINF:-1 group-title="随机视频" ,8
+http://v.tuerji.net/video.php
+#EXTINF:-1 group-title="随机视频" ,9
+https://xiaolufx.com/suiji/video.php
+#EXTINF:-1 group-title="随机视频" ,10
+http://ksxjj.txqq.pro/video.php
+#EXTINF:-1 group-title="随机视频" ,11
+http://xjj1.716888.xyz/fenlei/zj/nennen/nennen.php
+#EXTINF:-1 group-title="随机视频" ,12
+https://188sp.711888.xyz/188/video.php
+#EXTINF:-1 group-title="随机视频" ,13
+https://lzw.me/v/video.php
+#EXTINF:-1 group-title="随机视频" ,14
+https://sp.4n2.cn/?api=xjj&type=json0.05495915570251153
+#EXTINF:-1 group-title="随机视频" ,15
+https://www.dwymw.com/yule/xjj/video.php
+#EXTINF:-1 group-title="随机视频" ,16
+https://api.yujn.cn/api/zzxjj.php?type=video
+#EXTINF:-1 group-title="随机视频" ,17
+https://www.99sgou.com/xjj/video.php
+#EXTINF:-1 group-title="随机视频" ,18
+https://www.xiaoac.com/ac/xiaojiejie/video.php
+#EXTINF:-1 group-title="随机视频" ,19
+http://xjj1.716888.xyz/fenlei/zj/nennen/nennen.php
+#EXTINF:-1 group-title="随机视频" ,20
+http://xjj1.716888.xyz/fenlei/zj/jipinyz/jipinyz.php
+#EXTINF:-1 group-title="随机视频" ,21
+http://xjj1.716888.xyz/fenlei/zj/sihuawd/sihuawd.php
+#EXTINF:-1 group-title="随机视频" ,22
+http://xjj1.716888.xyz/fenlei/zj/wanmeisc/wanmeisc.php
+#EXTINF:-1 group-title="随机视频" ,23
+http://xjj1.716888.xyz/fenlei/zj/manyao/manyao.php
+#EXTINF:-1 group-title="随机视频" ,24
+http://xjj1.716888.xyz/fenlei/zj/sihuadd/sihuadd.php
+#EXTINF:-1 group-title="随机视频" ,25
+http://xjj1.716888.xyz/fenlei/zj/qingchun/qingchun.php
+#EXTINF:-1 group-title="随机视频" ,26
+http://xjj1.716888.xyz/fenlei/zj/jipinll/jipinll.php
+#EXTINF:-1 group-title="随机视频" ,27
+http://xjj1.716888.xyz/fenlei/zj/nideym/nideym.php
+#EXTINF:-1 group-title="随机视频" ,28
+http://xjj1.716888.xyz/fenlei/zj/tianmei/tianmei.php
+#EXTINF:-1 group-title="随机视频" ,29
+http://xjj1.716888.xyz/fenlei/zj/jingpinsc/jingpinsc.php
+#EXTINF:-1 group-title="随机视频" ,30
+http://xjj1.716888.xyz/fenlei/api/api1.php
+#EXTINF:-1 group-title="随机视频" ,31
+http://xjj1.716888.xyz/fenlei/zj/yusi/yusi.php
+#EXTINF:-1 group-title="随机视频" ,32
+http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
+#EXTINF:-1 group-title="随机视频" ,33
+http://xjj1.716888.xyz/fenlei/zj/xuejie/xuejie.php
+#EXTINF:-1 group-title="随机视频" ,34
+http://xjj1.716888.xyz/fenlei/zj/kawayi/kawayi.php
+#EXTINF:-1 group-title="随机视频" ,35
+http://api.yujn.cn/api/xjj.php
+#EXTINF:-1 group-title="随机视频" ,36
+http://api.yujn.cn/api/zzxjj.php
+#EXTINF:-1 group-title="随机视频" ,37
+https://api.yujn.cn/api/nvda.php
+#EXTINF:-1 group-title="随机视频" ,38
+https://api.yujn.cn/api/tongtong.php
+#EXTINF:-1 group-title="随机视频" ,39
+https://api.yujn.cn/api/duilian.php
+#EXTINF:-1 group-title="随机视频" ,白丝
+http://api.yujn.cn/api/baisis.php
+#EXTINF:-1 group-title="随机视频" ,穿搭
+http://api.yujn.cn/api/chuanda.php
+#EXTINF:-1 group-title="随机视频" ,吊带
+http://api.yujn.cn/api/diaodai.php
+#EXTINF:-1 group-title="随机视频" ,动漫
+http://api.yujn.cn/api/dmsp.php
+#EXTINF:-1 group-title="随机视频" ,抖音变装
+http://api.yujn.cn/api/bianzhuang.php?
+#EXTINF:-1 group-title="随机视频" ,抖音潇潇
+http://api.yujn.cn/api/xiaoxiao.php
+#EXTINF:-1 group-title="随机视频" ,风景
+http://api.yujn.cn/api/pcfj.php
+#EXTINF:-1 group-title="随机视频" ,古风
+http://api.yujn.cn/api/hanfu.php
+#EXTINF:-1 group-title="随机视频" ,海边
+http://api.yujn.cn/api/haibian.php
+#EXTINF:-1 group-title="随机视频" ,黑丝
+http://api.yujn.cn/api/heisis.php
+#EXTINF:-1 group-title="随机视频" ,街拍
+http://api.yujn.cn/api/jiepai.php
+#EXTINF:-1 group-title="随机视频" ,鞠婧祎
+http://api.yujn.cn/api/jjy.php
+#EXTINF:-1 group-title="随机视频" ,聚合
+http://api.yujn.cn/api/juhexjj.php
+#EXTINF:-1 group-title="随机视频" ,快手变装
+http://api.yujn.cn/api/ksbianzhuang.php
+#EXTINF:-1 group-title="随机视频" ,快手翻唱
+http://api.yujn.cn/api/ks_fc.php
+#EXTINF:-1 group-title="随机视频" ,快手姐姐
+http://api.yujn.cn/api/ksxjjsp.php
+#EXTINF:-1 group-title="随机视频" ,萝莉
+http://api.yujn.cn/api/luoli.php
+#EXTINF:-1 group-title="随机视频" ,慢摇
+http://api.yujn.cn/api/manyao.php
+#EXTINF:-1 group-title="随机视频" ,漫画芋
+http://api.yujn.cn/api/manhuay.php
+#EXTINF:-1 group-title="随机视频" ,漫展
+https://api.yujn.cn/api/manzhan.php
+#EXTINF:-1 group-title="随机视频" ,美腿
+http://api.yujn.cn/api/yuzu.php
+#EXTINF:-1 group-title="随机视频" ,萌娃
+http://api.yujn.cn/api/mengwa.php
+#EXTINF:-1 group-title="随机视频" ,梦梦
+http://api.yujn.cn/api/ndym.php
+#EXTINF:-1 group-title="随机视频" ,女高
+http://api.yujn.cn/api/nvgao.php
+#EXTINF:-1 group-title="随机视频" ,清纯
+http://api.yujn.cn/api/qingchun.php
+#EXTINF:-1 group-title="随机视频" ,热舞
+http://api.yujn.cn/api/rewu.php
+#EXTINF:-1 group-title="随机视频" ,蛇姐
+http://api.yujn.cn/api/shejie.php
+#EXTINF:-1 group-title="随机视频" ,身材
+http://api.yujn.cn/api/wmsc.php
+#EXTINF:-1 group-title="随机视频" ,双倍快乐
+http://api.yujn.cn/api/sbkl.php
+#EXTINF:-1 group-title="随机视频" ,甜妹
+http://api.yujn.cn/api/tianmei.php
+#EXTINF:-1 group-title="随机视频" ,舞蹈
+http://api.yujn.cn/api/shwd.php
+#EXTINF:-1 group-title="随机视频" ,小哥哥
+http://api.yujn.cn/api/xgg.php
+#EXTINF:-1 group-title="随机视频" ,写真
+https://v1.21lhz.cn/API/Video/api.php
+#EXTINF:-1 group-title="随机视频" ,玉足
+http://api.yujn.cn/api/jpmt.php
+#EXTINF:-1 group-title="随机视频" ,章若楠
+http://api.yujn.cn/api/zrn.php
+#EXTINF:-1 group-title="随机视频" ,周杰伦
+http://api.yujn.cn/api/jay.php
+#EXTINF:-1 group-title="随机视频" ,COS
+http://api.yujn.cn/api/COS.php
+#EXTINF:-1 group-title="随机视频" ,JK洛丽塔
+http://api.yujn.cn/api/jksp.php
