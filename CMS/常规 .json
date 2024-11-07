@@ -1,0 +1,50 @@
+[
+  {
+    "name" : "🟢 木耳",
+    "api" : "https:\/\/heimuer.tv\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟢 华为",
+    "api" : "https:\/\/huaweiba.live\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟢 魔都",
+    "api" : "https:\/\/www.moduzy1.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟡 360",
+    "api" : "https:\/\/www.360zy.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟡 iKun",
+    "api" : "https:\/\/ikunzyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟡 量子",
+    "api" : "https:\/\/cj.lziapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🔴 光速",
+    "api" : "https:\/\/api.guangsuapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🔴 极速",
+    "api" : "https:\/\/jszyapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🔴 新浪",
+    "api" : "https:\/\/api.xinlangapi.com\/xinlangapi.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟣 最大",
+    "api" : "https:\/\/api.zuidapi.com\/api.php\/provide\/vod\/"
+  },
+  {
+    "name" : "🟣 优质",
+    "api" : "https:\/\/api.1080zyku.com\/inc\/apijson.php"
+  },
+  {
+    "name" : "🟣 暴风",
+    "api" : "https:\/\/bfzyapi.com\/api.php\/provide\/vod\/"
+  }
+]
