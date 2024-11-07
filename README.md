@@ -26,9 +26,9 @@
     
   https://jazzforlove.github.io/IPTV/CN-IPTV.m3u
 
-  - 3.国内最新电影
+  - 3.最新电影资源
     
-  https://jazzforlove.github.io/IPTV/Movie.m3u
+  https://jazzforlove.github.io/IPTV/李赛凤电影.m3u
 
 ## 二、IPTV热门频道
   - m3u格式转换链接地址：
@@ -42,17 +42,8 @@
 
 ## 三、cms免费资源 搭配iOS（VPlayer - 视频播放器）app使用，体验会更好
 - 1.集合
-  * https://jazzforlove.github.io/CMS/vplayer_source.json (推荐)
+  * https://jazzforlove.github.io/CMS/常规.json (推荐)
 
-  * https://jazzforlove.github.io/CMS/vplayer_source1.json (推荐)
-  
-  * https://jazzforlove.github.io/CMS/video_sources_default.json
-  
-  * https://jazzforlove.github.io/CMS/vod_source.json
-
-  * https://jazzforlove.github.io/CMS/cms_vod.txt
-
-  * https://jazzforlove.github.io/CMS/cms_source.txt
 ## 四、随机音乐
 http://www.free-api.com/doc/302
     
