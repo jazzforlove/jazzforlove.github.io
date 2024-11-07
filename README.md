@@ -15,20 +15,19 @@
 
 - 链接地址：
   - 0.广播频道
-
-  https://jazzforlove.github.io/IPTV/radio.m3u
+  * https://jazzforlove.github.io/IPTV/radio.m3u
   
   - 1.国内网络电视、电视剧、电影、音乐、小品等资源
-    
-  https://jazzforlove.github.io/IPTV/IPTV_CN.m3u
+  * https://jazzforlove.github.io/IPTV/IPTV_CN.m3u
   
   - 2.国内网络电视
-    
-  https://jazzforlove.github.io/IPTV/CN-IPTV.m3u
+  * https://jazzforlove.github.io/IPTV/CN-IPTV.m3u
 
-  - 3.最新电影资源
+  - 3.最新电影资源  
+  * https://jazzforlove.github.io/IPTV/李赛凤电影.m3u
     
-  https://jazzforlove.github.io/IPTV/李赛凤电影.m3u
+  - 4.随机系列（音乐、视频、壁纸）
+  * https://jazzforlove.github.io/CMS/常规.json (推荐)
 
 ## 二、IPTV热门频道
   - m3u格式转换链接地址：
@@ -43,7 +42,6 @@
 ## 三、cms免费资源 搭配iOS（VPlayer - 视频播放器）app使用，体验会更好
 - 1.集合
   * https://jazzforlove.github.io/CMS/常规.json (推荐)
-
 ## 四、随机音乐
 http://www.free-api.com/doc/302
     
