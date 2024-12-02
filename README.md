@@ -45,8 +45,8 @@
 - 2.随机音乐
 http://www.free-api.com/doc/302
 ## 四、Alist和网盘资源整理
-- http://alist.vlimotion.com,VPlayer的AList，音乐、多媒体资源分享
-- http://alist.xiaoya.pro,小雅的AList 大量影视 有点失效
+- http://alist.vlimotion.com, VPlayer的AList，音乐、多媒体资源分享
+- http://alist.xiaoya.pro, 小雅的AList 大量影视 有点失效
 - https://alist.azad.asia, azad个人云盘 影视4k在线 电影美剧丰富、MV、学习教程等资源
 - https://alist.ygxz.xyz, 小站的AList
 - https://alist.qyide.com, 轻易网盘
