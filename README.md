@@ -1,5 +1,5 @@
 # 介绍
-## VPlayer - 视频播放器testfight，国内CMS资源最好用播放器。
+## VPlayer - 视频播放器testfight，VOD｜IPTV｜Emby资源最好用播放器。
 - https://testflight.apple.com/join/zAFJpGzc
 ## 云盘资源合集115
 - https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4?tab=000001
@@ -42,8 +42,23 @@
 ## 三、cms免费资源 搭配iOS（VPlayer - 视频播放器）app使用，体验会更好
 - 1.集合
   * https://jazzforlove.github.io/CMS/常规.json (推荐)
-## 四、随机音乐
+- 2.随机音乐
 http://www.free-api.com/doc/302
+## 四、Alist和网盘资源整理
+- http://alist.vlimotion.com,VPlayer的AList，音乐、多媒体资源分享
+- http://alist.xiaoya.pro,小雅的AList 大量影视 有点失效
+- https://alist.azad.asia, azad个人云盘 影视4k在线 电影美剧丰富、MV、学习教程等资源
+- https://alist.ygxz.xyz, 小站的AList
+- https://alist.qyide.com, 轻易网盘
+- https://pan.clun.top, clun网盘
+- https://pan.ecve.cn, ecve网盘
+- https://xue.zhoujie218.top/, zhoujie218网盘
+- https://pan.clun.top, 雨呢网盘 视频 动漫 写真
+- https://al.chirmyram.com, 七米蓝网盘
+- https://asca0121.toc.icu, 日负斗金 4K影视 动漫 剧集
+- https://pan.arley.cn, Arley’s Drive 图片 电影 游戏
+- https://bdys.top/, bdys 电影动漫韩剧日剧等媒体库资源，提供在线播放，个人资源低调观看
+
     
 ## 五、电视直播软件壳下载
 * 电视直播壳子，需自定义直播源；
