@@ -1,0 +1,13 @@
+## Alist和网盘资源整理
+- http://alist.vlimotion.com, VPlayer的AList，音乐、多媒体资源分享
+- http://alist.xiaoya.pro, 小雅的AList 大量影视 有点失效
+- https://alist.azad.asia, azad个人云盘 影视4k在线 电影美剧丰富、MV、学习教程等资源
+- https://alist.ygxz.xyz, 小站的AList
+- https://alist.qyide.com, 轻易网盘
+- https://pan.clun.top, clun网盘
+- https://pan.ecve.cn, ecve网盘
+- https://xue.zhoujie218.top/, zhoujie218网盘
+- https://pan.clun.top, 雨呢网盘 视频 动漫 写真
+- https://al.chirmyram.com, 七米蓝网盘
+- https://asca0121.toc.icu, 日负斗金 4K影视 动漫 剧集
+- https://pan.arley.cn, Arley’s Drive 图片 电影 游戏
