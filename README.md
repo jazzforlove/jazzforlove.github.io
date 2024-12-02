@@ -79,7 +79,7 @@ http://www.free-api.com/doc/302
   
 ## 七、效果
 <p align="center">
-<img src="https://github.com/jazzforlove/jazzforlove.github.io/blob/main/imgs/show.gif" width="50%,height="50%">
+<img src="https://github.com/jazzforlove/jazzforlove.github.io/blob/main/IMG/show.gif" width="50%,height="50%">
 </p>
 
 ## 八、添加QQ群相互交流
