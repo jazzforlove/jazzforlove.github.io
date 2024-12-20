@@ -1,5 +1,5 @@
 # 介绍
-## VPlayer - 视频播放器testfight，VOD｜IPTV｜Emby资源最好用播放器。
+## VPlayer - 视频播放器testfight，VOD｜IPTV｜Emby资源最好用播放器,支持AList。
 - https://testflight.apple.com/join/zAFJpGzc
 ## 云盘资源合集115
 - https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4?tab=000001
