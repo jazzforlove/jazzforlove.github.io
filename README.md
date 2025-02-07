@@ -1,6 +1,9 @@
 # 介绍
 ## VPlayer - 视频播放器testfight，VOD｜IPTV｜Emby资源最好用播放器,支持AList。
-- https://testflight.apple.com/join/zAFJpGzc
+### ipa安装路径，请勿充值会员：
+我用夸克网盘分享了「VPlayer」，点击链接即可保存。打开「夸克APP」
+
+链接：https://pan.quark.cn/s/8dd8cf8f47c1
 ## 云盘资源合集115
 - https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4?tab=000001
 ## CMS资源集合
